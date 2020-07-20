@@ -496,7 +496,7 @@ line-height: 145%
 }
 
 .gallery-photo {
-    width: 98%;
+/*    width: 98%;*/
     margin: 1%;
     overflow: hidden;
 /*    border-radius: 3%;*/
@@ -767,3 +767,8 @@ footer p {
 
 
 
+
+.gif {
+    max-width: 380px;
+    max-height: 360px;
+}
